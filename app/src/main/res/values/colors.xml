@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#71B2F2</color>
+    <color name="remover">#FF0000</color>
+    <color name="editar">#0073FF</color>
+    <color name="detalhes">#35AA2D</color>
+
+    <color name="todo">#FF0000</color>
+    <color name="doing">#0073FF</color>
+    <color name="done">#84FB7C</color>
+
+</resources>
